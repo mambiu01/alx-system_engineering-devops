@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv USER echo "hellow user"
+echo $UID "hellow user"
